@@ -20,3 +20,14 @@ D:\----- U T N   -  T U P   P I I -----\----- Repo - RogerMartinez777 -----\Rece
 D:\----- U T N   -  T U P   P I I -----\----- Repo - RogerMartinez777 -----\Recetas__SP_MinCapas\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.csproj.CoreCompileInputs.cache
 D:\----- U T N   -  T U P   P I I -----\----- Repo - RogerMartinez777 -----\Recetas__SP_MinCapas\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.exe
 D:\----- U T N   -  T U P   P I I -----\----- Repo - RogerMartinez777 -----\Recetas__SP_MinCapas\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.pdb
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\bin\Debug\Recetas__SP_MinCapas.exe.config
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\bin\Debug\Recetas__SP_MinCapas.exe
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\bin\Debug\Recetas__SP_MinCapas.pdb
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.csproj.AssemblyReference.cache
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.csproj.SuggestedBindingRedirects.cache
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.FrmAltaReceta.resources
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.Properties.Resources.resources
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.csproj.GenerateResource.cache
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.csproj.CoreCompileInputs.cache
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.exe
+D:\----- U T N   -  T U P   P I I -----\Repo new - Roger\Recetas__MinCapas__SP\Recetas__SP_MinCapas\Recetas__SP_MinCapas\obj\Debug\Recetas__SP_MinCapas.pdb

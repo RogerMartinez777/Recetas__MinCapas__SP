@@ -21,7 +21,6 @@ namespace Recetas__SP_MinCapas.Datos
                 t = conexion.BeginTransaction();
                 comando.Transaction = t;
                 comando.CommandText = "SP_INSERTAR_RECETA";
-                //comando.Parameters.AddWithValue("@id_receta", oReceta.RecetaNro);
                 comando.Parameters.AddWithValue("@tipo_receta", receta.TipoReceta);
                 comando.Parameters.AddWithValue("@nombre", receta.Nombre);
                 if (receta.Chef != null)
